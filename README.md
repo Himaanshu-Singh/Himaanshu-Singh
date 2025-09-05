@@ -47,13 +47,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu9415"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://himaanshu-singh.github.io/E-Book-Review-Website/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:himanshu@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🎵 Fun Section
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Himaanshu-Singh&color=blueviolet" alt="Profile Views" />
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100" />
+  <a href="mailto:singhhimanshu9414@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
