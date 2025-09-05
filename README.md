@@ -79,11 +79,13 @@ JavaScript   █░░░░░░░░░░░░░░░░░░░░░�
 Other        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.4%
 ```
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=solarized_dark&font=Fira%20Code&ext=all&cache=20250905" alt="LeetCode Stats" style="width:600px; border-radius:8px;"/>
-</a>
+## 🎯 LeetCode Progress
 
+<div align="center">
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu-singh?theme=dark&font=Fira%20Code&ext=contest)
+
+</div>
 
 ## 🌟 What I'm Working On
 
@@ -105,15 +107,11 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ## 💭 Quote
 
-<!-- Minimal dark contest -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=dark&font=Fira%20Code&ext=contest)
+<div align="center">
 
-<!-- Full stats, better theme -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=solarized_dark&font=Fira%20Code&ext=all&cache=20250905)
+*"The best way to learn is by doing. The best way to teach is by example."*
 
-<!-- Light theme for README with plain font -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=light&font=Roboto&ext=all&cache=20250905)
-
+</div>
 
 ---
 
