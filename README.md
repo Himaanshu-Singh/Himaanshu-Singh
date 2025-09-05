@@ -2,13 +2,13 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Software+Developer+in+Test+%26+Problem+Solver;Passionate+about+Clean+Code;Always+Learning+New+Technologies;Building+Solutions+that+Matter)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Problem+Solver;Passionate+about+Clean+Code;Always+Learning+New+Technologies;Building+Solutions+that+Matter)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate software developer who loves turning complex problems into elegant solutions. With a strong foundation in **python** , **Java** and algorithmic thinking, I enjoy building efficient and scalable applications while continuously expanding my technical horizons.
+I'm a passionate software developer who loves turning complex problems into elegant solutions. With a strong foundation in **C++** and algorithmic thinking, I enjoy building efficient and scalable applications while continuously expanding my technical horizons.
 
 - 🔭 Currently working on **innovative software solutions**
 - 🌱 Learning **advanced algorithms and system design**
