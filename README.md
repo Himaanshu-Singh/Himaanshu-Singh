@@ -31,15 +31,7 @@
     alt="Himanshu's GitHub Stats"
   />
 
-  <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=default&theme=dark&langs_count=6&hide_title=false&hide_border=false" 
-    width="350" 
-    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;" 
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'" 
-    alt="Himanshu's Top Languages"
-  />
+
 </p>
 
 ---
