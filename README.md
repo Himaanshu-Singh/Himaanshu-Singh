@@ -22,9 +22,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark" width="48%" />
 </p>
+
 
 ---
 
