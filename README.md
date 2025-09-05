@@ -36,47 +36,32 @@
 
 ---
 ### 🌟 Featured Projects
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<!-- Project Card 1 -->
-<div style="width: 300px; border: 2px solid #FF7F50; border-radius: 10px; padding: 15px; margin: 10px; 
-            background: #0d1117; box-shadow: 0 0 15px rgba(255,127,80,0.4); transition: box-shadow 0.3s ease;">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📄🤖</div>
-  <h3 align="center">ChatPDF - AI Test Case Extractor</h3>
-  <p align="center">Extract test cases from PDFs automatically using AI</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white" />
-  </p>
+<div align="left">
+
+<!-- Project 1 -->
+<div style="border: 1px solid #444; border-radius: 8px; padding: 12px; margin-bottom: 10px; background: #0d1117;">
+  <strong>📄🤖 ChatPDF - AI Test Case Extractor</strong> <br>
+  Extract test cases from PDFs automatically using AI <br>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-FF6C37?style=flat-square&logo=openai&logoColor=white" />
 </div>
 
-
-<!-- Project Card 2 -->
-<div style="width: 300px; border: 2px solid #00CFFF; border-radius: 10px; padding: 15px; margin: 10px; 
-            background: #0d1117; box-shadow: 0 0 15px rgba(0,207,255,0.3); transition: box-shadow 0.3s ease;">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📱⚡</div>
-  <h3 align="center">Automation-Appium</h3>
-  <p align="center">Full Android automation framework with Robot Framework & Appium</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/RobotFramework-0088CC?style=for-the-badge&logo=robotframework&logoColor=white" />
-  </p>
+<!-- Project 2 -->
+<div style="border: 1px solid #444; border-radius: 8px; padding: 12px; margin-bottom: 10px; background: #0d1117;">
+  <strong>📱⚡ Automation-Appium</strong> <br>
+  Full Android automation framework with Robot Framework & Appium <br>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RobotFramework-0088CC?style=flat-square&logo=robotframework&logoColor=white" />
 </div>
 
-
-
-
-<!-- Project Card 3 -->
-<div style="width: 300px; border: 2px solid #FF8C42; border-radius: 10px; padding: 15px; margin: 10px; 
-            background: #0d1117; box-shadow: 0 0 15px rgba(255,140,66,0.3); transition: box-shadow 0.3s ease;">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📚✨</div>
-  <h3 align="center">E-Book Review Website</h3>
-  <p align="center">Modern, responsive web app for reviewing e-books</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-  </p>
+<!-- Project 3 -->
+<div style="border: 1px solid #444; border-radius: 8px; padding: 12px; margin-bottom: 10px; background: #0d1117;">
+  <strong>📚✨ E-Book Review Website</strong> <br>
+  Modern, responsive web app for reviewing e-books <br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
 </div>
 
 </div>
