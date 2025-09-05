@@ -1,13 +1,13 @@
-# Hi there 👋, I'm Himanshu Singh
+# 👋 Hi there, I'm Himanshu Singh
 ### 🚀 Quality Automation Engineer | AI & Automation Enthusiast
 
 💡 Passionate about **AI-powered test automation**, building frameworks that bridge **automation and intelligence**.  
-🌱 Currently exploring **Advanced AI-driven QA frameworks**, **Appium automation**, and **AI integrations for smart testing**.
+🌱 Currently exploring **Advanced AI-driven QA frameworks**, **Appium automation**, and **AI integrations for smart testing**.  
 
 ---
 
 ### 💻 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white" />
@@ -15,40 +15,75 @@
   <img src="https://img.shields.io/badge/Appium-00ADEF?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/RobotFramework-0088CC?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTAPI-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
   <!-- Main GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true&hide_title=false&hide_border=false&include_all_commits=true" 
     width="350" 
-    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
+    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'" 
     alt="Himanshu's GitHub Stats"
   />
+
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=default&theme=dark&langs_count=6&hide_title=false&hide_border=false" 
+    width="350" 
+    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'" 
+    alt="Himanshu's Top Languages"
+  />
 </p>
-
-
-
 
 ---
 
 ### 🌟 Featured Projects
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [ChatPDF - AI Test Case Extractor](https://github.com/Himaanshu-Singh/ChatPDF---AI-powered-Test-case-Extractor) | Extract test cases from PDFs automatically using AI | JavaScript, AI |
-| [Automation-Appium](https://github.com/Himaanshu-Singh/Automation-appium) | Full Android automation framework with Robot Framework & Appium | Python, Robot Framework |
-| [E-Book Review Website](https://github.com/Himaanshu-Singh/E-Book-Review-Website) | Modern, responsive web app for reviewing e-books | HTML, CSS, JavaScript |
-
+<!-- Project Card 1 -->
+<div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;">
+  <a href="https://github.com/Himaanshu-Singh/ChatPDF---AI-powered-Test-case-Extractor" target="_blank" style="text-decoration: none; color: white;">
+    <img src="https://raw.githubusercontent.com/Himaanshu-Singh/ChatPDF---AI-powered-Test-case-Extractor/main/preview.png" alt="ChatPDF Project" style="width: 100%;" />
+    <div style="padding: 15px;">
+      <h3>ChatPDF - AI Test Case Extractor</h3>
+      <p>Extract test cases from PDFs automatically using AI</p>
+      <p><b>Tech:</b> JavaScript, AI</p>
+    </div>
+  </a>
 </div>
 
-✨ **Pro tip:** Hover over the project links to see a tooltip description (via GitHub Markdown enhancements).
+<!-- Project Card 2 -->
+<div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;">
+  <a href="https://github.com/Himaanshu-Singh/Automation-appium" target="_blank" style="text-decoration: none; color: white;">
+    <img src="https://raw.githubusercontent.com/Himaanshu-Singh/Automation-appium/main/preview.png" alt="Automation Appium Project" style="width: 100%;" />
+    <div style="padding: 15px;">
+      <h3>Automation-Appium</h3>
+      <p>Full Android automation framework with Robot Framework & Appium</p>
+      <p><b>Tech:</b> Python, Robot Framework</p>
+    </div>
+  </a>
+</div>
+
+<!-- Project Card 3 -->
+<div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;">
+  <a href="https://github.com/Himaanshu-Singh/E-Book-Review-Website" target="_blank" style="text-decoration: none; color: white;">
+    <img src="https://raw.githubusercontent.com/Himaanshu-Singh/E-Book-Review-Website/main/preview.png" alt="E-Book Website" style="width: 100%;" />
+    <div style="padding: 15px;">
+      <h3>E-Book Review Website</h3>
+      <p>Modern, responsive web app for reviewing e-books</p>
+      <p><b>Tech:</b> HTML, CSS, JavaScript</p>
+    </div>
+  </a>
+</div>
+
+</div>
 
 ---
 
