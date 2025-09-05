@@ -42,7 +42,9 @@
 <!-- Project Card 1 -->
 <div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;">
   <a href="https://github.com/Himaanshu-Singh/ChatPDF---AI-powered-Test-case-Extractor" target="_blank" style="text-decoration: none; color: white;">
-    <img src="https://raw.githubusercontent.com/Himaanshu-Singh/ChatPDF---AI-powered-Test-case-Extractor/main/preview.png" alt="ChatPDF Project" style="width: 100%;" />
+    <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #FF6C37, #FFB347); display: flex; align-items: center; justify-content: center; font-size: 60px;">
+      📄🤖
+    </div>
     <div style="padding: 15px;">
       <h3>ChatPDF - AI Test Case Extractor</h3>
       <p>Extract test cases from PDFs automatically using AI</p>
@@ -54,7 +56,9 @@
 <!-- Project Card 2 -->
 <div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;">
   <a href="https://github.com/Himaanshu-Singh/Automation-appium" target="_blank" style="text-decoration: none; color: white;">
-    <img src="https://raw.githubusercontent.com/Himaanshu-Singh/Automation-appium/main/preview.png" alt="Automation Appium Project" style="width: 100%;" />
+    <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #00ADEF, #00FFC3); display: flex; align-items: center; justify-content: center; font-size: 60px;">
+      📱⚡
+    </div>
     <div style="padding: 15px;">
       <h3>Automation-Appium</h3>
       <p>Full Android automation framework with Robot Framework & Appium</p>
@@ -66,7 +70,9 @@
 <!-- Project Card 3 -->
 <div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;">
   <a href="https://github.com/Himaanshu-Singh/E-Book-Review-Website" target="_blank" style="text-decoration: none; color: white;">
-    <img src="https://raw.githubusercontent.com/Himaanshu-Singh/E-Book-Review-Website/main/preview.png" alt="E-Book Website" style="width: 100%;" />
+    <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #FF5722, #FF9800); display: flex; align-items: center; justify-content: center; font-size: 60px;">
+      📚✨
+    </div>
     <div style="padding: 15px;">
       <h3>E-Book Review Website</h3>
       <p>Modern, responsive web app for reviewing e-books</p>
