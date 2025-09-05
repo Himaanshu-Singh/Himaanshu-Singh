@@ -1,87 +1,126 @@
-# 👋 Hi there, I'm Himanshu Singh
-### 🚀 Quality Automation Engineer | AI & Automation Enthusiast
+# 👋 Hello, I'm Himanshu Singh
 
-💡 Passionate about **AI-powered test automation**, building frameworks that bridge **automation and intelligence**.  
-🌱 Currently exploring **Advanced AI-driven QA frameworks**, **Appium automation**, and **AI integrations for smart testing**.  
-
----
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-00ADEF?style=for-the-badge&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/RobotFramework-0088CC?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTAPI-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-  <!-- Main GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true&hide_title=false&hide_border=false&include_all_commits=true" 
-    width="350" 
-    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease;" 
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'" 
-    alt="Himanshu's GitHub Stats"
-  />
-
-
-</p>
-
----
-### 🌟 Featured Projects
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-<!-- Project Card 1 -->
-<div style="width: 300px; border: 2px solid #FF7F50; border-radius: 10px; padding: 15px; margin: 10px; 
-            background: #0d1117; box-shadow: 0 0 15px rgba(255,127,80,0.4); transition: box-shadow 0.3s ease;">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📄🤖</div>
-  <h3 align="center">ChatPDF - AI Test Case Extractor</h3>
-  <p align="center">Extract test cases from PDFs automatically using AI</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white" />
-  </p>
-</div>
-
-<!-- Project Card 2 -->
-<div style="width: 300px; border: 2px solid #00CFFF; border-radius: 10px; padding: 15px; margin: 10px; 
-            background: #0d1117; box-shadow: 0 0 15px rgba(0,207,255,0.3); transition: box-shadow 0.3s ease;">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📱⚡</div>
-  <h3 align="center">Automation-Appium</h3>
-  <p align="center">Full Android automation framework with Robot Framework & Appium</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/RobotFramework-0088CC?style=for-the-badge&logo=robotframework&logoColor=white" />
-  </p>
-</div>
-
-<!-- Project Card 3 -->
-<div style="width: 300px; border: 2px solid #FF8C42; border-radius: 10px; padding: 15px; margin: 10px; 
-            background: #0d1117; box-shadow: 0 0 15px rgba(255,140,66,0.3); transition: box-shadow 0.3s ease;">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📚✨</div>
-  <h3 align="center">E-Book Review Website</h3>
-  <p align="center">Modern, responsive web app for reviewing e-books</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-  </p>
-</div>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Problem+Solver;Passionate+about+Clean+Code;Always+Learning+New+Technologies;Building+Solutions+that+Matter)
 
 </div>
 
+## 🚀 About Me
+
+I'm a passionate software developer who loves turning complex problems into elegant solutions. With a strong foundation in **C++** and algorithmic thinking, I enjoy building efficient and scalable applications while continuously expanding my technical horizons.
+
+- 🔭 Currently working on **innovative software solutions**
+- 🌱 Learning **advanced algorithms and system design**
+- 💡 Interested in **competitive programming and open source**
+- 🎯 Goal: Contributing to impactful projects that make a difference
+- ⚡ Fun fact: I believe the best code is not just functional, but beautiful
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himaanshu-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaanshu-singh&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=himaanshu-singh&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+[![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=himaanshu-singh&repo=LeetCode-Solutions&theme=tokyonight)](https://github.com/himaanshu-singh/LeetCode-Solutions)
+
+</div>
+
+### 🎯 Project Highlights
+
+- **[LeetCode Solutions](https://github.com/himaanshu-singh/LeetCode-Solutions)** - Efficient C++ solutions with clear logic and optimal time complexity
+- **[Project Name 2]** - Brief description of another key project
+- **[Project Name 3]** - Brief description of another key project
+
+## 📈 Coding Activity
+
+```text
+Week: 01 December, 2024 - 08 December, 2024
+
+C++          ████████████████████░░░░░   80.2%
+Python       ████░░░░░░░░░░░░░░░░░░░░░   15.3%
+JavaScript   █░░░░░░░░░░░░░░░░░░░░░░░░    3.1%
+Other        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.4%
+```
+
+## 🎯 LeetCode Progress
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu-singh?theme=dark&font=Fira%20Code&ext=contest)
+
+</div>
+
+## 🌟 What I'm Working On
+
+- 🔥 **Algorithmic Problem Solving**: Continuously solving LeetCode problems to sharpen problem-solving skills
+- 🚀 **System Design**: Learning scalable architecture patterns and best practices
+- 🌐 **Open Source**: Contributing to meaningful projects in the developer community
+- 📚 **Knowledge Sharing**: Writing about programming concepts and solutions
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
+
+## 💭 Quote
+
+<div align="center">
+
+*"The best way to learn is by doing. The best way to teach is by example."*
+
+</div>
+
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/himanshu9415"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://himaanshu-singh.github.io/E-Book-Review-Website/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:singhhimanshu9414@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+
+### Thanks for visiting! 😊
+
+![Visitor Count](https://profile-counter.glitch.me/himaanshu-singh/count.svg)
+
+⭐️ From [himaanshu-singh](https://github.com/himaanshu-singh)
+
+</div>
