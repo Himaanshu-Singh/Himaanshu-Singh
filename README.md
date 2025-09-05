@@ -49,6 +49,8 @@
     <img src="https://img.shields.io/badge/AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white" />
   </p>
 </div>
+<hr style="border: 0.5px solid #555;" />
+
 
 <!-- Project Card 2 -->
 <div style="width: 300px; border: 2px solid #00CFFF; border-radius: 10px; padding: 15px; margin: 10px; 
@@ -61,6 +63,8 @@
     <img src="https://img.shields.io/badge/RobotFramework-0088CC?style=for-the-badge&logo=robotframework&logoColor=white" />
   </p>
 </div>
+<hr style="border: 0.5px solid #555;" />
+
 
 <!-- Project Card 3 -->
 <div style="width: 300px; border: 2px solid #FF8C42; border-radius: 10px; padding: 15px; margin: 10px; 
