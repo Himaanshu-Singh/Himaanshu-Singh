@@ -119,7 +119,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ### Thanks for visiting! 😊
 
-![Visitor Count](https://profile-counter.glitch.me/himaanshu-singh/count.svg)
 
 ⭐️ From [himaanshu-singh](https://github.com/himaanshu-singh)
 
