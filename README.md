@@ -64,6 +64,10 @@
   </p>
 </div>
 <hr style="border: 0.5px solid #555;" />
+<hr style="border: 1px solid #AAAAAA;" />
+<hr style="border: 0.2px solid #AAAAAA;" />
+
+
 
 
 <!-- Project Card 3 -->
