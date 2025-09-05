@@ -83,7 +83,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu-singh?theme=dark&font=Fira%20Code&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=dark&font=Fira%20Code&ext=contest)
 
 </div>
 
