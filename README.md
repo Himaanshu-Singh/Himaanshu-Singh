@@ -80,12 +80,10 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 ```
 
 ## 🎯 LeetCode Progress
-
 <div align="center">
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=dark&font=Fira%20Code&ext=contest)
-
 </div>
+
 
 ## 🌟 What I'm Working On
 
