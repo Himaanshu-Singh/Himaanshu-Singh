@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Himanshu Singh
-### 🚀 Quality Automation Engineer | AI & Mobile Automation Enthusiast
+### 🚀 Quality Automation Engineer | AI & Automation Enthusiast
 
 💡 Passionate about **AI-powered test automation**, building frameworks that bridge **automation and intelligence**.  
 🌱 Currently exploring **Advanced AI-driven QA frameworks**, **Appium automation**, and **AI integrations for smart testing**.
