@@ -79,10 +79,10 @@ JavaScript   █░░░░░░░░░░░░░░░░░░░░░�
 Other        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.4%
 ```
 
-## 🎯 LeetCode Progress
-<div align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=dark&font=Fira%20Code&ext=contest)
-</div>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=solarized_dark&font=Fira%20Code&ext=all&cache=20250905" alt="LeetCode Stats" style="width:600px; border-radius:8px;"/>
+</a>
+
 
 
 ## 🌟 What I'm Working On
