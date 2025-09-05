@@ -34,7 +34,7 @@
   <!-- Top Languages Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark&langs_count=6&hide_title=false&hide_border=false" 
-    width="350" 
+    width="650" 
     style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
     alt="Himanshu's Top Languages"
   />
