@@ -39,8 +39,10 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
 
 <!-- Project Card 1 -->
-<div style="width: 280px; border-radius: 15px; background: #0d1117; padding: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px; background: linear-gradient(135deg, #FF6C37, #FFB347); border-radius: 10px; padding: 20px;">
+<div style="width: 280px; border-radius: 15px; background: #0d1117; padding: 15px; 
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3); border: 2px solid #FF6C37;">
+  <div style="font-size: 50px; text-align: center; margin-bottom: 10px; 
+              background: linear-gradient(135deg, #FF6C37, #FFB347); border-radius: 10px; padding: 20px;">
     📄🤖
   </div>
   <h3 align="center">ChatPDF - AI Test Case Extractor</h3>
@@ -52,8 +54,10 @@
 </div>
 
 <!-- Project Card 2 -->
-<div style="width: 280px; border-radius: 15px; background: #0d1117; padding: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px; background: linear-gradient(135deg, #00ADEF, #00FFC3); border-radius: 10px; padding: 20px;">
+<div style="width: 280px; border-radius: 15px; background: #0d1117; padding: 15px; 
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3); border: 2px solid #00ADEF;">
+  <div style="font-size: 50px; text-align: center; margin-bottom: 10px; 
+              background: linear-gradient(135deg, #00ADEF, #00FFC3); border-radius: 10px; padding: 20px;">
     📱⚡
   </div>
   <h3 align="center">Automation-Appium</h3>
@@ -65,8 +69,10 @@
 </div>
 
 <!-- Project Card 3 -->
-<div style="width: 280px; border-radius: 15px; background: #0d1117; padding: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-  <div style="font-size: 50px; text-align: center; margin-bottom: 10px; background: linear-gradient(135deg, #FF5722, #FF9800); border-radius: 10px; padding: 20px;">
+<div style="width: 280px; border-radius: 15px; background: #0d1117; padding: 15px; 
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3); border: 2px solid #FF5722;">
+  <div style="font-size: 50px; text-align: center; margin-bottom: 10px; 
+              background: linear-gradient(135deg, #FF5722, #FF9800); border-radius: 10px; padding: 20px;">
     📚✨
   </div>
   <h3 align="center">E-Book Review Website</h3>
