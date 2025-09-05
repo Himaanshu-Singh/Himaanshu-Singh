@@ -21,12 +21,24 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true" width="45%" style="float: left;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=default&langs_count=6&theme=dark" width="48%" />
 
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <!-- Main GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true&hide_title=false&hide_border=false&include_all_commits=true" 
+    width="350" 
+    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
+    alt="Himanshu's GitHub Stats"
+  />
+
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark&langs_count=6&hide_title=false&hide_border=false" 
+    width="350" 
+    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
+    alt="Himanshu's Top Languages"
+  />
 </p>
-<div style="clear: both;"></div>
 
 
 
