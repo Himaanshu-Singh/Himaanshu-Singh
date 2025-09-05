@@ -40,21 +40,22 @@
 
 <!-- Project Card 1 -->
 <div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; 
-            box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-  <a href="https://github.com/Himaanshu-Singh/ChatPDF---AI-powered-Test-case-Extractor" target="_blank" 
-     style="text-decoration: none; color: white;">
-    <!-- Animated Icon Section -->
+            box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 30px rgba(255,108,55,0.6)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.5)';">
+  <a href="https://github.com/Himaanshu-Singh/ChatPDF---AI-powered-Test-case-Extractor" target="_blank" style="text-decoration: none; color: white;">
+    <!-- Floating Emoji/Icon -->
     <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #FF6C37, #FFB347); 
-                display: flex; align-items: center; justify-content: center; font-size: 60px;
-                transition: transform 0.3s ease;">
+                display: flex; align-items: center; justify-content: center; font-size: 60px; 
+                animation: float 3s ease-in-out infinite;">
       📄🤖
     </div>
     <div style="padding: 15px; text-align: center;">
       <h3>ChatPDF - AI Test Case Extractor</h3>
       <p>Extract test cases from PDFs automatically using AI</p>
       <div style="margin-top: 10px; display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
-        <span style="background: #f0db4f; color: #000; padding: 3px 8px; border-radius: 5px; font-size: 12px;">JavaScript</span>
-        <span style="background: #FF6C37; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">AI</span>
+        <span style="background: #f0db4f; color: #000; padding: 3px 8px; border-radius: 5px; font-size: 12px; transition: transform 0.2s;">JavaScript</span>
+        <span style="background: #FF6C37; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px; transition: transform 0.2s;">AI</span>
       </div>
     </div>
   </a>
@@ -62,20 +63,21 @@
 
 <!-- Project Card 2 -->
 <div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; 
-            box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-  <a href="https://github.com/Himaanshu-Singh/Automation-appium" target="_blank" 
-     style="text-decoration: none; color: white;">
+            box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 30px rgba(0,173,239,0.6)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.5)';">
+  <a href="https://github.com/Himaanshu-Singh/Automation-appium" target="_blank" style="text-decoration: none; color: white;">
     <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #00ADEF, #00FFC3); 
-                display: flex; align-items: center; justify-content: center; font-size: 60px;
-                transition: transform 0.3s ease;">
+                display: flex; align-items: center; justify-content: center; font-size: 60px; 
+                animation: float 3s ease-in-out infinite;">
       📱⚡
     </div>
     <div style="padding: 15px; text-align: center;">
       <h3>Automation-Appium</h3>
       <p>Full Android automation framework with Robot Framework & Appium</p>
       <div style="margin-top: 10px; display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
-        <span style="background: #3572A5; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Python</span>
-        <span style="background: #0088CC; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Robot Framework</span>
+        <span style="background: #3572A5; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px; transition: transform 0.2s;">Python</span>
+        <span style="background: #0088CC; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px; transition: transform 0.2s;">Robot Framework</span>
       </div>
     </div>
   </a>
@@ -83,27 +85,41 @@
 
 <!-- Project Card 3 -->
 <div style="width: 300px; border-radius: 15px; overflow: hidden; background: #0d1117; 
-            box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-  <a href="https://github.com/Himaanshu-Singh/E-Book-Review-Website" target="_blank" 
-     style="text-decoration: none; color: white;">
+            box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.3s ease, box-shadow 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 30px rgba(255,87,34,0.6)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.5)';">
+  <a href="https://github.com/Himaanshu-Singh/E-Book-Review-Website" target="_blank" style="text-decoration: none; color: white;">
     <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #FF5722, #FF9800); 
-                display: flex; align-items: center; justify-content: center; font-size: 60px;
-                transition: transform 0.3s ease;">
+                display: flex; align-items: center; justify-content: center; font-size: 60px; 
+                animation: float 3s ease-in-out infinite;">
       📚✨
     </div>
     <div style="padding: 15px; text-align: center;">
       <h3>E-Book Review Website</h3>
       <p>Modern, responsive web app for reviewing e-books</p>
       <div style="margin-top: 10px; display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
-        <span style="background: #264de4; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px;">HTML</span>
-        <span style="background: #F0DB4F; color: black; padding: 3px 8px; border-radius: 5px; font-size: 12px;">CSS</span>
-        <span style="background: #f0db4f; color: black; padding: 3px 8px; border-radius: 5px; font-size: 12px;">JavaScript</span>
+        <span style="background: #264de4; color: white; padding: 3px 8px; border-radius: 5px; font-size: 12px; transition: transform 0.2s;">HTML</span>
+        <span style="background: #F0DB4F; color: black; padding: 3px 8px; border-radius: 5px; font-size: 12px; transition: transform 0.2s;">CSS</span>
+        <span style="background: #f0db4f; color: black; padding: 3px 8px; border-radius: 5px; font-size: 12px; transition: transform 0.2s;">JavaScript</span>
       </div>
     </div>
   </a>
 </div>
 
 </div>
+
+<!-- Keyframe Animation -->
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+div span:hover {
+  transform: scale(1.2);
+}
+</style>
+
 
 
 ---
