@@ -39,7 +39,8 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
 <!-- Project Card 1 -->
-<div style="width: 300px; border: 2px solid #FF6C37; border-radius: 10px; padding: 15px; margin: 10px; background: #0d1117;">
+<div style="width: 300px; border: 2px solid #FF7F50; border-radius: 10px; padding: 15px; margin: 10px; 
+            background: #0d1117; box-shadow: 0 0 15px rgba(255,127,80,0.4); transition: box-shadow 0.3s ease;">
   <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📄🤖</div>
   <h3 align="center">ChatPDF - AI Test Case Extractor</h3>
   <p align="center">Extract test cases from PDFs automatically using AI</p>
@@ -50,7 +51,8 @@
 </div>
 
 <!-- Project Card 2 -->
-<div style="width: 300px; border: 2px solid #00ADEF; border-radius: 10px; padding: 15px; margin: 10px; background: #0d1117;">
+<div style="width: 300px; border: 2px solid #00CFFF; border-radius: 10px; padding: 15px; margin: 10px; 
+            background: #0d1117; box-shadow: 0 0 15px rgba(0,207,255,0.3); transition: box-shadow 0.3s ease;">
   <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📱⚡</div>
   <h3 align="center">Automation-Appium</h3>
   <p align="center">Full Android automation framework with Robot Framework & Appium</p>
@@ -61,7 +63,8 @@
 </div>
 
 <!-- Project Card 3 -->
-<div style="width: 300px; border: 2px solid #FF5722; border-radius: 10px; padding: 15px; margin: 10px; background: #0d1117;">
+<div style="width: 300px; border: 2px solid #FF8C42; border-radius: 10px; padding: 15px; margin: 10px; 
+            background: #0d1117; box-shadow: 0 0 15px rgba(255,140,66,0.3); transition: box-shadow 0.3s ease;">
   <div style="font-size: 50px; text-align: center; margin-bottom: 10px;">📚✨</div>
   <h3 align="center">E-Book Review Website</h3>
   <p align="center">Modern, responsive web app for reviewing e-books</p>
@@ -73,6 +76,7 @@
 </div>
 
 </div>
+
 
 
 ---
