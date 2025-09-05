@@ -105,11 +105,15 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ## 💭 Quote
 
-<div align="center">
+<!-- Minimal dark contest -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=dark&font=Fira%20Code&ext=contest)
 
-*"The best way to learn is by doing. The best way to teach is by example."*
+<!-- Full stats, better theme -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=solarized_dark&font=Fira%20Code&ext=all&cache=20250905)
 
-</div>
+<!-- Light theme for README with plain font -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/himaanshu0078?theme=light&font=Roboto&ext=all&cache=20250905)
+
 
 ---
 
