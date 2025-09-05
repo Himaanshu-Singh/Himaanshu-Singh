@@ -21,10 +21,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true" width="40%" style="margin: 0 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark" width="40%" style="margin: 0 20px;" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true" width="45%" style="float: left;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark" width="45%" style="float: right;" />
 </p>
+<div style="clear: both;"></div>
+
 
 
 
