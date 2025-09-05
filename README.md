@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himaanshu-Singh&show_icons=true&theme=dark&count_private=true" width="45%" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark" width="45%" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshu-Singh&layout=compact&theme=dark" width="35%" style="margin-left: 8px;" />
 </p>
 
 
